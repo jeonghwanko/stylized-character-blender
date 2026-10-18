@@ -85,3 +85,9 @@ SAMPLES=48 RSHOTS=hero,pfront,pside,fneutral,fsmile,fblink EXPORT=1 OUTN=r001 so
 - **모델·텍스처·프리뷰·문서** (`*.blend`, `export/*`, `textures/*`, `preview/*`): [CC BY 4.0](LICENSE-ASSETS) © 2026 jeonghwanko. 출처 표기: "Stylized Character (Blender) by jeonghwanko, CC BY 4.0"
 
 캐릭터 디자인은 오리지널이다. 영감을 준 레퍼런스 이미지는 저작권 문제로 저장소에 포함하지 않았다.
+
+## 얼굴 표면 연구 체크포인트 (미완성)
+
+기존 v4 배포본과 별도로77·n05 연구 모델, 재현 코드 및 실패 기록을 보존했습니다. **닮음 검토와 제작용 표정 리그는 미완료**이며 기존 모델과 GLB/FBX를 대체하지 않습니다. 참조 원본 및 참조가 포함된 비교 이미지는 공개하지 않습니다.
+
+[연구 모델·미리보기·재현 방법](source/research/README.md) · [실패 원인과 전체 얼굴 재구성 재개 지점](source/research/NEXT_STEPS.md)

@@ -252,3 +252,7 @@ SAMPLES=48 RSHOTS=hero,pfront,pside,pback,pclose,pelbow,fneutral,fsmile,fsmile34
 - 레퍼런스 이미지의 디자인·얼굴·의상 디테일을 복제하지 말 것.
 - 공개 파일에 사용자 실명이나 이메일을 넣지 말 것.
 - `work/hair/F.npy`(약 47 MB)는 빌드 캐시라서 저장소에 넣지 않았다. 빌드하면 다시 생긴다.
+
+## 얼굴 표면 연구 인계 추가
+
+새 연구 체크포인트77·n05는 source/research/checkpoints/에 있습니다. 기존 v4 파일과 수출물은 그대로 보존했습니다. n05는 닮음 미통과이며 새 피부의 표정키·UV·전체 포즈 검증이 끝나지 않았습니다. 세부 상태와 재현 명령은 [연구 README](source/research/README.md), 실패 분석 및 아직 생성되지 않은 전체 얼굴 제어 메시의 재개 지점은 [NEXT_STEPS](source/research/NEXT_STEPS.md)를 따릅니다. 반복 실패 파일·참조 이미지·개인 파일 관리 자료는 공개 범위에서 제외했습니다.
