@@ -1,0 +1,6 @@
+work/
+__pycache__/
+*.pyc
+*.blend1
+*.fbm/
+refs/
